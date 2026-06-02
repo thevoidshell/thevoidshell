@@ -46,7 +46,7 @@ Machine learning project exploring malware detection and analyst trust using Ran
 
 🔗 Repository: https://github.com/thevoidshell/xai-malware-classification
 
-[![XAI Malware Classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
+[![xai-malware-classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
 
 
 ### 🐧 cybersecurity-learning
@@ -59,7 +59,7 @@ A collection of Linux labs, OverTheWire notes, CTF writeups, and security experi
 
 🔗 Repository: https://github.com/thevoidshell/cybersecurity-learning
 
-[![Cybersecurity Learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
+[![cybersecurity-learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
 
 
 ### 🔐 Apache Server Hardening
