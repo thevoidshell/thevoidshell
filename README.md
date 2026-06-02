@@ -37,19 +37,19 @@ I'm a Computer Information Systems student at UFV exploring cybersecurity throug
 
 ## Featured Projects
 
-### 🦠 Malware Classification & Explainability
+### 🦠 xai-malware-classification
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 Machine learning project exploring malware detection and analyst trust using Random Forests, SHAP, and LIME.
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: https://github.com/thevoidshell/xai-malware-classification
 
 [![XAI Malware Classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
 
 
-### 🐧 Cybersecurity Learning Repository
+### 🐧 cybersecurity-learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
@@ -57,7 +57,7 @@ Machine learning project exploring malware detection and analyst trust using Ran
 
 A collection of Linux labs, OverTheWire notes, CTF writeups, and security experiments documenting my learning journey.
 
-🔗 Repository: *Coming Soon*
+🔗 Repository: https://github.com/thevoidshell/cybersecurity-learning
 
 [![Cybersecurity Learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
 
@@ -70,7 +70,8 @@ A collection of Linux labs, OverTheWire notes, CTF writeups, and security experi
 
 Compiled Apache from source on Kali Linux and implemented HTTPS, SSL/TLS, and security hardening measures.
 
-🔗 Repository: *Coming Soon*
+🚧 Repository coming soon
+
 
 ## Find Me Here
 
