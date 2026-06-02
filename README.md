@@ -36,15 +36,6 @@ I'm a Computer Information Systems student at UFV exploring cybersecurity throug
 </p>
 
 ## Featured Projects
-[![XAI Malware Classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
-
-[![Cybersecurity Learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
-
-## Featured Projects
 
 ### 🦠 Malware Classification & Explainability
 
@@ -55,7 +46,8 @@ Machine learning project exploring malware detection and analyst trust using Ran
 
 🔗 Repository: *Coming Soon*
 
----
+[![XAI Malware Classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
+
 
 ### 🐧 Cybersecurity Learning Repository
 
@@ -67,7 +59,8 @@ A collection of Linux labs, OverTheWire notes, CTF writeups, and security experi
 
 🔗 Repository: *Coming Soon*
 
----
+[![Cybersecurity Learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
+
 
 ### 🔐 Apache Server Hardening
 
