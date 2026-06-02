@@ -35,7 +35,14 @@ I'm a Computer Information Systems student at UFV exploring cybersecurity throug
 
 </p>
 
+## Featured Projects
+[![XAI Malware Classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
 
+[![Cybersecurity Learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
 
 ## Featured Projects
 
