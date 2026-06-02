@@ -23,33 +23,42 @@ I'm a Computer Information Systems student at UFV exploring cybersecurity throug
 
 ## Tools I Use
 
-<p align="left">
+### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python" height="50" />
-<img src="https://skillicons.dev/icons?i=java" height="50" />
-<img src="https://skillicons.dev/icons?i=linux" height="50" />
-<img src="https://skillicons.dev/icons?i=bash" height="50" />
-<img src="https://skillicons.dev/icons?i=docker" height="50" />
-<img src="https://skillicons.dev/icons?i=git" height="50" />
-<img src="https://skillicons.dev/icons?i=vscode" height="50" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</p>
+### Security & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### Editor
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ## Featured Projects
 
-### 🦠 xai-malware-classification
+### 🦠 XAI Malware Classification
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 Machine learning project exploring malware detection and analyst trust using Random Forests, SHAP, and LIME.
 
-🔗 Repository: https://github.com/thevoidshell/xai-malware-classification
+🔗 [View Repository](https://github.com/thevoidshell/xai-malware-classification)
 
 [![xai-malware-classification](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=xai-malware-classification&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/xai-malware-classification)
 
 
-### 🐧 cybersecurity-learning
+### 🐧 Cybersecurity Learning
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
@@ -57,7 +66,7 @@ Machine learning project exploring malware detection and analyst trust using Ran
 
 A collection of Linux labs, OverTheWire notes, CTF writeups, and security experiments documenting my learning journey.
 
-🔗 Repository: https://github.com/thevoidshell/cybersecurity-learning
+🔗 [View Repository](https://github.com/thevoidshell/cybersecurity-learning)
 
 [![cybersecurity-learning](https://github-readme-stats.vercel.app/api/pin/?username=thevoidshell&repo=cybersecurity-learning&theme=github_dark&hide_border=true)](https://github.com/thevoidshell/cybersecurity-learning)
 
