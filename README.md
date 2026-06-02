@@ -1,102 +1,92 @@
-# Hi, I'm Rachel 👋
+# Hey, I'm Rachel 👋
 
-Cybersecurity student with hands-on experience in vulnerability assessment, penetration testing, Linux systems, and security research.
+I like breaking things, figuring out how they work, and occasionally putting them back together.
 
-I enjoy building practical security projects, exploring new technologies through labs and CTFs, and documenting my learning journey publicly. My goal is to develop strong offensive security and security engineering skills while building solutions that are both technically sound and useful.
+I'm a Computer Information Systems student at UFV exploring cybersecurity through projects, labs, writeups, and the occasional technical rabbit hole.
 
----
 
-## 🔍 Currently Exploring
+## Current Rabbit Holes
 
-* Web Application Security
-* Offensive Security Methodologies
-* Linux Administration & Hardening
-* Malware Analysis
-* Security Tool Development
-* Detection & Defense
+```console
+[+] Offensive Security
+[+] Linux
+[+] Malware Analysis
+[+] Web Application Security
+[+] Security Research
+[+] Reverse Engineering
 
----
+[!] Building projects
+[!] Taking notes on everything
 
-## 🛠️ Technologies & Tools
+[-] Finishing project ideas at the same rate I'm starting them
+```
 
-### Security
+## Tools I Use
 
-* Burp Suite
-* Nmap
-* Gobuster
-* DIRB
-* OWASP Testing Methodology
-* SecurityHeaders
+<p align="left">
 
-### Programming
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+<img src="https://skillicons.dev/icons?i=java" height="50" />
+<img src="https://skillicons.dev/icons?i=linux" height="50" />
+<img src="https://skillicons.dev/icons?i=bash" height="50" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" />
+<img src="https://skillicons.dev/icons?i=git" height="50" />
+<img src="https://skillicons.dev/icons?i=vscode" height="50" />
 
-* Python
-* Java
-* JavaScript
-* HTML/CSS
-* C/C++ (Coursework)
+</p>
 
-### Infrastructure & Platforms
 
-* Kali Linux
-* Windows Server 2022
-* Active Directory
-* DNS & DHCP
-* Docker
-* Git
 
----
+## Featured Projects
 
-## 📚 Learning Journey
+### 🦠 Malware Classification & Explainability
 
-I believe the best way to learn cybersecurity is by doing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-My GitHub serves as a public record of my projects, labs, writeups, and experiments as I continue developing practical skills across offensive security, Linux, infrastructure, and security research.
+Machine learning project exploring malware detection and analyst trust using Random Forests, SHAP, and LIME.
 
-### Current Learning Activities
-
-* TryHackMe Labs
-* OverTheWire Challenges
-* Linux Administration
-* Security Research
-* Web Application Security Testing
-* Security Project Development
+🔗 Repository: *Coming Soon*
 
 ---
 
-## 🎯 Current Goals
+### 🐧 Cybersecurity Learning Repository
 
-* Build and deploy a flagship cybersecurity portfolio project
-* Publish more technical writeups and documentation
-* Strengthen offensive security and VAPT skills
-* Continue developing practical Linux and infrastructure knowledge
-* Contribute to cybersecurity-focused open-source projects
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+A collection of Linux labs, OverTheWire notes, CTF writeups, and security experiments documenting my learning journey.
 
-## 📈 GitHub Philosophy
-
-I use this space to:
-
-* Build projects that solve real problems
-* Document lessons learned from labs and research
-* Share technical knowledge and writeups
-* Track my growth as a cybersecurity practitioner
-* Experiment with new tools and technologies
+🔗 Repository: *Coming Soon*
 
 ---
 
-## 🌐 Connect With Me
+### 🔐 Apache Server Hardening
 
-**LinkedIn**
-linkedin.com/in/rachel-gupta-rg2004
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![TLS](https://img.shields.io/badge/TLS%2FSSL-Secured-green?style=flat-square)
 
-**TryHackMe**
-tryhackme.com/p/RacheL04
+Compiled Apache from source on Kali Linux and implemented HTTPS, SSL/TLS, and security hardening measures.
 
-**GitHub**
-github.com/thevoidshell
+🔗 Repository: *Coming Soon*
 
----
+## Find Me Here
 
-*"Learning publicly. Building consistently. Improving every day."*
+<p align="center">
+  <a href="https://linkedin.com/in/rachel-gupta-rg2004">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/RacheL04">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+```bash
+root@thevoidshell:~$ whoami
+
+Curious student.
+Occasional builder.
+Professional rabbit-hole explorer.
+```
