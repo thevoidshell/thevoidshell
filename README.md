@@ -92,11 +92,3 @@ Compiled Apache from source on Kali Linux and implemented HTTPS, SSL/TLS, and se
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
-
-```bash
-root@thevoidshell:~$ whoami
-
-Curious student.
-Occasional builder.
-Professional rabbit-hole explorer.
-```
