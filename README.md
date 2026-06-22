@@ -2,9 +2,9 @@
 
 I like breaking things, figuring out how they work, and occasionally putting them back together.
 
-I'm a Computer Information Systems student at UFV exploring cybersecurity through hands-on projects, labs, writeups, and the occasional technical rabbit hole.
+I'm a Computer Information Systems student at UFV exploring cybersecurity through projects, labs, writeups, and the occasional technical rabbit hole.
 
-## Current Rabbit Holes
+## Currently Exploring
 ```console
 [+] Offensive Security
 [+] Linux
@@ -14,17 +14,20 @@ I'm a Computer Information Systems student at UFV exploring cybersecurity throug
 [+] Reverse Engineering
 
 [!] Building projects
-[!] Taking notes on everything
+[!] Documenting everything I learn
 
 [-] Finishing project ideas at the same rate I'm starting them
 ```
 
-## Tools I Use
-### Languages & Development
+## Toolbox
+### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Development & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ### Security & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
